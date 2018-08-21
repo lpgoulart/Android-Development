@@ -2,6 +2,7 @@ package com.example.myapp;
 
 import android.app.Activity;
 import android.os.Bundle;
+import android.view.View;
 import android.widget.TextView;
 
 public class MainActivity extends Activity {
@@ -13,5 +14,9 @@ public class MainActivity extends Activity {
 
         TextView view = findViewById(R.id.text);
         view.setText("My App - phone");
+    }
+
+    public void Next(View view) {
+
     }
 }
