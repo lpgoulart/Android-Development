@@ -9,6 +9,14 @@
     android:orientation="vertical">
 
     <fragment
+        android:id="@+id/frag_text"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:name="com.example.frag_communication.textFragment"
+/>
+
+    <fragment
         android:id="@+id/frag_result"
         android:layout_width="match_parent"
         android:layout_height="0dp"
