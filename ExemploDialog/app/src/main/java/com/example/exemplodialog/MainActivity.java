@@ -32,4 +32,9 @@ public class MainActivity extends AppCompatActivity {
         radioDialog.show(getSupportFragmentManager(), "radioDialog");
 
     }
+
+    public void openMultiplo(View view) {
+        MultiploDialogFragment multiDialog = new MultiploDialogFragment();
+        multiDialog.show(getSupportFragmentManager(), "multiDialog");
+    }
 }
