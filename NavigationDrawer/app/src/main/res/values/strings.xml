@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">NavigationDrawer</string>
+    <string-array name="planets_names">
+        <item>Mercurio</item>
+        <item>Venus</item>
+        <item>Terra</item>
+        <item>Marte</item>
+        <item>Jupiter</item>
+        <item>Saturno</item>
+        <item>Urano</item>
+        <item>Netuno</item>
+    </string-array>
+
+    <string-array name="planets_imgs">
+        <item>@drawable/mercurio</item>
+        <item>@drawable/venus</item>
+        <item>@drawable/terra</item>
+        <item>@drawable/marte</item>
+        <item>@drawable/jupiter</item>
+        <item>@drawable/saturno</item>
+        <item>@drawable/urano</item>
+        <item>@drawable/netuno</item>
+    </string-array>
+
+    <string name="drawer_open">Abrir o navigation drawer</string>
+    <string name="drawer_close">Fechar o navigation drawer</string>
+    <string name="action_search">Procurar</string>
+    <string name="title_choose">Escolha um planeta</string>
+</resources>
