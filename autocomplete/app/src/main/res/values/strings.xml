@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AutoComplete</string>
+    <string-array name="estados">
+        <item>Rio de Janeiro</item>
+        <item>Rio Grande do Norte</item>
+        <item>Pernambuco</item>
+        <item>Santa Catarina</item>
+        <item>Rio Grande do Sul</item>
+        <item>São Paulo</item>
+    </string-array>
+</resources>
